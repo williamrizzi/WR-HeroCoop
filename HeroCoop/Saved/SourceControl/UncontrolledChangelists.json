@@ -5,6 +5,10 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/rizzi.w26/Documents/GitHub/WR-HeroCoop/HeroCoop/Content/Maps/MainMenu.umap",
+				"C:/Users/rizzi.w26/Documents/GitHub/WR-HeroCoop/HeroCoop/Content/Interface/WB_MainMenu.uasset",
+				"C:/Users/rizzi.w26/Documents/GitHub/WR-HeroCoop/HeroCoop/Content/BP_GameMode.uasset",
+				"C:/Users/rizzi.w26/Documents/GitHub/WR-HeroCoop/HeroCoop/Content/Maps/Map1.umap",
 				"C:/Users/EinStein/Documents/GitHub/WR-HeroCoop/HeroCoop/Content/Map1.umap",
 				"C:/Users/EinStein/Documents/GitHub/WR-HeroCoop/HeroCoop/Content/Knight/knight_texture.uasset",
 				"C:/Users/EinStein/Documents/GitHub/WR-HeroCoop/HeroCoop/Content/Knight/Knight_Skeleton.uasset",
